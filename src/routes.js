@@ -14,7 +14,7 @@ export const routes = [
     meta: { titleI18n: "Trang chủ" },
   },
   {
-    path: `/cuong`,
+    path: `/tien`,
     name: 'admin',
     component: AdminPage,
     meta: { titleI18n: "Đăng nhập" },
